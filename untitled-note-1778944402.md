@@ -1,5 +1,7 @@
 ---
 type: Note
+belongs_to: "[[untitled-operation-1778944097]]"
+_organized: true
 ---
 # How I Run a Big Open Source Project
 
