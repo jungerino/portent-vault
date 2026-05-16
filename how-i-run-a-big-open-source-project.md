@@ -1,6 +1,6 @@
 ---
 type: Note
-belongs_to: "[[untitled-operation-1778944097]]"
+belongs_to: "[[publish-weekly-essay]]"
 _organized: true
 ---
 # How I Run a Big Open Source Project

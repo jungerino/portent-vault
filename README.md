@@ -36,7 +36,7 @@ type: Event
 state: organized
 belongs_to: "[[Launch Portent v0.1]]"
 related_to:
-  - "[[Portent]]"
+  - "[[portent]]"
   - "[[Knowledge bases]]"
 ---
 ```
