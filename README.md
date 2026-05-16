@@ -13,7 +13,7 @@ Portent is an opinionated knowledge model built around eight object types, defau
 
 ## Type Documents
 
-The `type/` folder contains the default Portent type definitions:
+The default Portent type definitions are:
 
 - [[project]]
 - [[operation]]
