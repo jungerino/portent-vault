@@ -2,8 +2,8 @@
 type: Type
 color: green
 sidebar label: Topics
-_order: 6
 _icon: tag
+_order: 6
 ---
 
 # Topic

@@ -3,7 +3,7 @@ type: Type
 color: red
 sidebar label: Projects
 _icon: rocket
-_order: 0
+_order: 2
 ---
 
 # Project

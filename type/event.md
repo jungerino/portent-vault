@@ -2,8 +2,8 @@
 type: Type
 color: yellow
 sidebar label: Events
-_order: 4
 _icon: calendar-blank
+_order: 4
 ---
 
 # Event

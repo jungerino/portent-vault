@@ -3,7 +3,7 @@ type: Type
 color: blue
 sidebar label: Responsibilities
 _icon: target
-_order: 2
+_order: 0
 ---
 
 # Responsibility

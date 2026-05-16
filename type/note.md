@@ -1,9 +1,9 @@
 ---
 type: Type
 color: green
-_order: 5
 _sidebar_label: Notes
 _icon: file-text
+_order: 5
 ---
 
 # Note
