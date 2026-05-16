@@ -11,5 +11,5 @@ belongs_to: "[[stay-in-good-shape]]"
 
 ## Quarter goals
 
-- [ ] Have 4 private lessons
+- [x] Have 4 private lessons
 - [ ] Play 6 games

@@ -1,6 +1,8 @@
 ---
 type: Event
-related_to: "[[try-padel]]"
+related_to:
+  - "[[try-padel]]"
+  - "[[untitled-person-1778943549]]"
 Date: 2026-05-01
 ---
 # First padel lesson!
