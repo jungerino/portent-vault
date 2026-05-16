@@ -1,6 +1,7 @@
 ---
 type: Operation
 belongs_to: "[[stay-in-good-shape]]"
+_organized: true
 ---
 # Strength training routine
 

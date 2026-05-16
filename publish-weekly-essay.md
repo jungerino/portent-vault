@@ -3,6 +3,7 @@ type: Operation
 Status: Active
 Cadence:
   - "Weekly"
+_organized: true
 ---
 # Publish weekly essay
 

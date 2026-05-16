@@ -1,6 +1,7 @@
 ---
 type: Project
 belongs_to: "[[stay-in-good-shape]]"
+_organized: true
 ---
 # Try Padel!
 
