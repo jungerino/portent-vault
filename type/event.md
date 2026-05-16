@@ -1,9 +1,9 @@
 ---
 type: Type
-icon: calendar
-color: orange
+color: yellow
 sidebar label: Events
-order: 50
+_order: 4
+_icon: calendar-blank
 ---
 
 # Event

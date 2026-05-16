@@ -1,9 +1,9 @@
 ---
 type: Type
-icon: repeat
-color: violet
+color: purple
 sidebar label: Operations
-order: 20
+_icon: arrows-clockwise
+_order: 1
 ---
 
 # Operation

@@ -1,9 +1,9 @@
 ---
 type: Type
-icon: hash
-color: cyan
+color: green
 sidebar label: Topics
-order: 70
+_order: 6
+_icon: tag
 ---
 
 # Topic

@@ -1,9 +1,9 @@
 ---
 type: Type
-icon: user
-color: rose
+color: pink
 sidebar label: People
-order: 80
+_order: 7
+_icon: user
 ---
 
 # Person

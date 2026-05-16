@@ -1,9 +1,9 @@
 ---
 type: Type
-icon: rocket
-color: blue
+color: red
 sidebar label: Projects
-order: 10
+_icon: rocket
+_order: 0
 ---
 
 # Project

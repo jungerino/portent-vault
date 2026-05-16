@@ -1,9 +1,9 @@
 ---
 type: Type
-icon: briefcase
-color: green
+color: blue
 sidebar label: Responsibilities
-order: 30
+_icon: target
+_order: 2
 ---
 
 # Responsibility

@@ -1,9 +1,9 @@
 ---
 type: Type
-icon: check-square
-color: amber
+color: red
 sidebar label: Tasks
-order: 40
+_icon: check
+_order: 3
 ---
 
 # Task
