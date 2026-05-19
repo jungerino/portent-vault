@@ -7,6 +7,7 @@ _order: 7
 _list_properties_display:
   - "belongs_to"
   - "related_to"
+  - "Kind"
 ---
 
 # Note

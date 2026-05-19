@@ -2,6 +2,8 @@
 type: Note
 related_to: "[[portent]]"
 _organized: true
+Kind:
+  - "Essay"
 ---
 # Introducing Portent
 
