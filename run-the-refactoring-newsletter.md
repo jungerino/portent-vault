@@ -1,5 +1,6 @@
 ---
 type: Responsibility
+_organized: true
 ---
 # Run the Refactoring Newsletter
 

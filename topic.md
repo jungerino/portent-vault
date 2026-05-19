@@ -3,7 +3,9 @@ type: Type
 color: green
 sidebar label: Topics
 _icon: tag
-_order: 6
+_list_properties_display:
+  - "URL"
+_order: 5
 ---
 
 # Topic

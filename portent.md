@@ -5,4 +5,4 @@ _organized: true
 ---
 # Portent
 
-The knowledge base spec
+The an open source spec for creating rich knowledge bases for life and work, developed by [[luca-rossi]]

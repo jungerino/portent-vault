@@ -3,7 +3,7 @@ type: Note
 belongs_to: "[[publish-weekly-essay]]"
 _organized: true
 ---
-# How I Run a Big Open Source Project
+# How I Run Tolaria
 
 Hey, Luca here! As you probably know by now, two weeks ago I launched [Tolaria](https://github.com/refactoringhq/tolaria), a desktop app for Mac, Linux, and Windows, to manage markdown knowledge bases — for humans and AI.
 

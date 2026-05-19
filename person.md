@@ -3,7 +3,7 @@ type: Type
 color: pink
 sidebar label: People
 _icon: user
-_order: 7
+_order: 6
 ---
 
 # Person

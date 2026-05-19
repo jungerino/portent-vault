@@ -3,7 +3,7 @@ type: Type
 color: green
 _sidebar_label: Notes
 _icon: file-text
-_order: 5
+_order: 7
 ---
 
 # Note

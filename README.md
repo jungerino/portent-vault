@@ -7,11 +7,13 @@ A starter vault template with the default Portent type definitions.
 
 Portent is an opinionated knowledge model built around eight object types, default relationships, and a simple lifecycle:
 
-- capture information to make it available
-- organize it with types and relationships to make it actionable
-- archive it when it should no longer appear in active views
+- **Capture** information to make it available
+- **Organize** it with types and relationships to make it actionable
+- **Archive** it when it should no longer appear in active views
 
-## Type Documents
+You can find the full description at [[introducing-portent]]
+
+## Types
 
 The default Portent type definitions are:
 
