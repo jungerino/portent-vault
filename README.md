@@ -31,7 +31,7 @@ These files are written as Markdown type documents so local-first tools such as 
 
 ## Default Relationships
 
-Use `belongs_to` for primary context and `related_to` for secondary context.
+Use `belongs_to` for strong ownership / composition (e.g. towards PORT types) and `related_to` for to express weaker, many-to-many relatedness.
 
 ```yaml
 ---
