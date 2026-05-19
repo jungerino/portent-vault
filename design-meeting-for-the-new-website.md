@@ -2,6 +2,7 @@
 type: Event
 belongs_to: "[[launch-the-new-refactoring-website]]"
 related_to: "[[sergio-panagia]]"
+_organized: true
 ---
 # Design meeting for the new website
 

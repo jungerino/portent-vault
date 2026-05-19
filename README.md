@@ -1,6 +1,7 @@
 ---
 type: Note
 related_to: "[[portent]]"
+_organized: true
 ---
 # Portent Vault Template
 
